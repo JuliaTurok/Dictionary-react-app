@@ -5,8 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-       <Dictionary />
+        <Dictionary />
       </header>
+      <a href="https://github.com/JuliaTurok/Dictionary-react-app.git">open-source code</a>
     </div>
   );
 }
